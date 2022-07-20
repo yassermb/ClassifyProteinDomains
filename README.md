@@ -1,4 +1,4 @@
-# Classification of protein domains families
+# Classification of protein domain families
 Using protein language models ProtTrans and ProSE for the classification of protein domain families given their sequence of amino acids.
 
 ![](tSNE_embedding_domains.png?raw=true "tSNE_embedding_domains")
