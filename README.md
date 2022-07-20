@@ -1,6 +1,8 @@
 # Classification of protein domains families
 Using protein language models ProtTrans and ProSE for the classification of protein domain families given their sequence of amino acids.
 
+![](tSNE_embedding_domains.png?raw=true "tSNE_embedding_domains")
+
 The database hosted by Kaggle can be found [here](https://www.kaggle.com/datasets/googleai/pfam-seed-random-split).
 
 - The jupyter notebook can be found in the Github repository.
