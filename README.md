@@ -11,6 +11,6 @@ The database hosted by Kaggle can be found [here](https://www.kaggle.com/dataset
 
 - In Kaggle the notebook is divided into two parts:
 
-  - Part 1 uses pre-trained model ProtTrans: [Part1]() 
+  - Part 1 uses pre-trained model ProtTrans: [Part1](https://www.kaggle.com/code/yassermhbh/pfam-ml-part1) 
 
-  - Part 2 uses pre-trained model ProSE: [Part2]()
+  - Part 2 uses pre-trained model ProSE: [Part2](https://www.kaggle.com/code/yassermhbh/pfam-ml-part2)
